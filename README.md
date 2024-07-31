@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma API REST desenvolvida com ASP.NET Core para demonstrar a integração com o MongoDB. A API fornece operações básicas de CRUD para gerenciar duas entidades: `Book` e `Ticket`. Este projeto é uma demonstração simples de como utilizar MongoDB com ASP.NET Core, incluindo a criação, leitura, atualização e exclusão de documentos.
+Este projeto é uma API REST desenvolvida com ASP.NET Core para demonstrar a integração com o MongoDB (NoSQL). A API fornece operações básicas de CRUD para gerenciar duas entidades: `Book` e `Ticket`. Este projeto é uma demonstração simples de como utilizar MongoDB com ASP.NET Core, incluindo a criação, leitura, atualização e exclusão de documentos.
 
 ## Tecnologias Utilizadas
 
